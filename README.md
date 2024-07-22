@@ -12,7 +12,7 @@ This project is a web application for predicting customer churn using a pre-trai
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/customer-churn-prediction.git
+    git clone https://github.com/alihassanml/customer-churn-prediction.git
     cd customer-churn-prediction
     ```
 
